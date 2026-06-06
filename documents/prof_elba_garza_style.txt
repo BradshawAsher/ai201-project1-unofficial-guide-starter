@@ -1,0 +1,12 @@
+What is Professor Elba Garza's teaching style, lecture quality, assignment grading, and course organization across introductory programming and hardware/software interface courses?
+
+Professor Elba Garza is a polarizing lecturer whose classroom dynamic fluctuates significantly depending on the course level. While some students find her approachable, caring, and humorous in introductory settings, others note a distinct lack of structural organization and clarity across her classes.
+
+Course-Specific Lecture Dynamics:
+- Introductory Track (CSE 121/122): Her presentation style frequently incorporates personal side-tangents and historical anecdotes. While some find this engaging, others note that she can be highly redundant, over-explaining basic programming concepts or rambling rather than focusing on technical mechanics. Some students opt to watch archived lectures from prior quarters to understand the programming syntax, though her one-on-one conceptual explanations during office hours are noted as being significantly clearer than her main lectures.
+- Hardware/Software Interface (CSE 351): In advanced systems courses, students frequently describe her lectures as highly disorganized and difficult to follow, noting that it can be tough to map her train of thought. Additionally, she occasionally delegates lecture periods completely to her teaching assistants rather than instructing the class directly.
+
+Grading Rubrics, Assignments, and Policies:
+- Introductory Project Policies: The introductory tracks feature highly structured safety nets. She provides lenient regrade opportunities and built-in "free extra attempts" on nearly every programming project. However, students emphasize that the initial project grading can feel subjective. 
+- Academic Integrity Constraints: She enforces a highly strict policy regarding code restrictions. Writing syntax or using programmatic methods that fall outside the explicitly permitted "allowed code" parameters—even if standard or learned in prior computer science environments—results in aggressive formal warning notices to students.
+- Core Systems Evaluation (CSE 351): The core hardware tracks feature exceptionally difficult exams and strict grading parameters. Lab evaluation is often described as arbitrary, with numeric points deducted from programming submissions without granular written explanations from the teaching staff.

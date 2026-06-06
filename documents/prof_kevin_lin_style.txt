@@ -1,0 +1,12 @@
+What is Professor Kevin Lin's teaching style, grading rubric structure, and assignment difficulty for data structures and computer science courses?
+
+Professor Kevin Lin is known for having an excellent, engaging, and dynamic oration style during lectures. In introductory or data-intensive settings, he frequently incorporates challenging live coding examples and provides highly practical programming tricks. However, his upper-level courses, such as data structures (CSE 373), present a significantly stressful and polarizing experience for many students.
+
+Course Structure and Grading Mechanics:
+- Evaluation Layout: The grading system is heavily test-heavy, frequently utilizing exams as the primary metric for a student's final score. While daily participation, attendance, and coding projects require an immense time commitment from students, they often contribute comparatively little to the final numeric grade. 
+- Rubric Clarity: He does not use a conventional grading rubric. Students frequently describe the scale as overly complicated, avant-garde, or arbitrary, which can make navigating expectations highly confusing. 
+- Lecture Expectations: His classroom strategy leans heavily toward an active-learning or flipped style. Lecture periods are frequently dedicated to practicing actual exam problems rather than introducing core definitions. As a result, students must independently learn and fully grasp the theoretical computer science concepts before stepping into the classroom.
+
+Assignment and Classroom Environment:
+- Project Specifications: Software engineering assignments are noted for being structurally confusing, dense, and difficult to parse without external guidance.
+- Behavioral Expectations: He maintains an incredibly strict stance on academic integrity and code style guidelines, which creates a high-stakes environment regarding student misconduct and original code execution.

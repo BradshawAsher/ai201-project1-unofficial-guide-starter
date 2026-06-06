@@ -1,0 +1,12 @@
+What is Professor Mahmood Hameed's teaching style, lecture delivery, assignment difficulty, and exam structure across electrical and systems engineering courses?
+
+Professor Mahmood Hameed is widely respected and recognized as an exceptionally knowledgeable, caring, and engaging lecturer. He genuinely cares about student comprehension and aims to make difficult foundational engineering concepts as clear and understandable as possible. However, his courses feature a rigid structure and are widely noted for being high-effort and challenging.
+
+Course Mechanics and Evaluation Structure:
+- Exam Rigor: His examinations are notoriously difficult and strictly graded. They test deep conceptual mastery, and students must be fully prepared for complex problem-solving.
+- Lecture Scope: He intentionally introduces highly advanced, adjacent course material during lectures. While this gives students an incredibly thorough understanding of the subject, it can sometimes make it difficult to isolate the core concepts needed immediately for assignments.
+- Classroom Rules: The pacing and administrative rules of his courses are rigid. Students should be fully prepared for mandatory participation requirements and the possibility of unannounced pop quizzes.
+
+Lab and Assignment Overhead:
+- Workload and Labs: The course architecture requires significant time commitment outside of class. Homework volume is heavy, and laboratory assignments are notoriously time-consuming, requiring careful time management from day one.
+- Course Variations: Student experiences fluctuate depending on the specific class level. In foundational environments like Fundamentals of Electrical Engineering (EE 215), his pacing is highly praised for clarity. In subsequent signals and systems tracks (EE 242) or advanced design tracks (EE 371), the lecture delivery can occasionally feel rushed or disconnected, forcing students to rely more heavily on external engineering textbooks and supplementary video content.

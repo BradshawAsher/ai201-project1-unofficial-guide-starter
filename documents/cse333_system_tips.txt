@@ -1,0 +1,7 @@
+What is the workload for CSE 333 and how does it compare to CSE 351? I really want to up my C/C++ game, and I heard this class is good for that. 
+
+I loved CSE 333! It was the most work I did in a 300-level CSE class, but super worth it. It is taught entirely in C and C++, the labs build to a cool overall project, and the exercises are really good practice for learning new computer systems concepts. 
+
+It is a pretty big time commitment, definitely more demanding than CSE 351. The course structure generally requires completing a small programming exercise in C or C++ every few days, alongside a much larger, multi-week programming lab due every two weeks. 
+
+If you are planning on taking advanced computer science electives afterwards, CSE 333 is a strict prerequisite to excellent 400-level systems classes like CSE 451 (Operating Systems) and CSE 452 (Distributed Systems). Both of those follow-up classes are heavily lab-based, where you implement production-grade features commonly used in real-world systems.

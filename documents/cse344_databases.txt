@@ -1,0 +1,12 @@
+What is the difficulty, workload, and conceptual focus of the redesigned CSE 344 (Databases) course, and is it manageable to take alongside other core CS courses?
+
+CSE 344 is generally considered to be on the lighter and more manageable side of the core 300-level computer science courses. The weekly workload typically demands around 2 to 4 hours of homework per week, making it an excellent course to pair with heavier, more demanding engineering requirements. 
+
+However, the perceived difficulty depends heavily on a student's prior background:
+- Students who already have practical experience writing SQL queries find the introductory segments much more straightforward.
+- Students with no prior relational database exposure note that the class is by no means an automatic or easy grade, as the logical concepts and query optimizations still require dedicated study.
+
+Course Comparisons and Scheduling Balance:
+- Workload Comparison: CSE 344 requires less weekly project overhead than CSE 331. While CSE 331 is conceptually straightforward, it demands slightly more mechanical work and code writing than 344. 
+- Conceptual Comparison: CSE 351 is significantly more conceptually challenging and time-consuming than CSE 344. 
+- Pairings: Taking a schedule that combines CSE 344, CSE 331, and CSE 351 in a single quarter represents a high volume of work, but it is entirely doable. To manage the collective workload of these core courses smoothly, students highly recommend forming or finding a dedicated study group immediately at the start of the quarter to collaborate on debugging and conceptual roadblocks.

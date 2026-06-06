@@ -1,0 +1,12 @@
+What makes CSE 351 difficult compared to the introductory programming courses, and how can a student prepare for the workload and assignments?
+
+CSE 351 is often the first time students encounter a class that does not come easily to them. It can be a really rough class, representing a major shift from foundational programming to low-level computer systems and hardware concepts. The programming assignments are generally the same from quarter to quarter.
+
+The course is effectively split into two halves, and students experience different learning curves for each:
+1. First Half (C and Pointers): This involves managing binary data types and memory addresses. Topics like bitwise manipulation can feel incredibly tedious, and the initial pointer concepts require budgeting a massive amount of time. 
+2. Second Half (Memory, Caches, and Assembly): This section deals with how the CPU manages memory blocks. Some students find the concepts of memory mapping and caches much easier to conceptualize than the pointer arithmetic in the first half. However, handling the x86-64 Assembly language programming assignments and "Assembly puzzles" is widely considered the most frustrating and challenging part of the coursework.
+
+Strategies and Resources for Success:
+- Time Allocation: The primary solution to passing is strictly budgeting enough time for labs and consistently attending office hours until debugging issues are resolved.
+- Quiz Sections: Attending the weekly quiz sections is critical. The section notes and TAs focus heavily on teaching students how to use the required low-level debugging tooling and provide the best frameworks for starting the difficult projects.
+- Textbooks and Reading: The classic textbook 'The C Programming Language' by Kernighan and Ritchie (K&R) is highly recommended for building foundational C proficiency before or during the first few weeks of class. Reading through it allows students to parse the course's code requirements with much less trouble. The official class textbook is also noted as being helpful specifically for mastering the complex mechanics of hardware caches.

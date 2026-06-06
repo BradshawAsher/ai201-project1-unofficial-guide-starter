@@ -1,0 +1,11 @@
+How useful was the class for interview prep? Do you think the content was enough to help you pass OA, or did you have to use other resources? If so, what? Also, how is the class over the summer?
+
+Completely useless for interviews. Learned next to nothing, learned 10x more from doing leetcode, and Grokking the Coding Interview (GTCI). Don’t pay for Grokking, you can find the problems on GitHub. 
+
+CSE 332 and CSE 421 would give you the depth for those topics, while leetcode will give you breadth. In 332, you just learn the different data structures and algorithms and how to implement them. It’s more just going in and getting your hands dirty through projects while the exams test you on your theoretical knowledge. 
+
+I found 332 helpful but I also came into UW with almost no coding experience. For me it helped to review the concepts from 332 before interviewing, but I used the LeetCode 75 list for actual practice.
+
+How time-consuming was the class and how difficult was it relative to CSE 351 or CSE 311? For me, the workload is about the same; it's just a standard core course. The only courses out for blood in CS are going to be algos, ML, and distributed systems, but those are all 400-level classes. 
+
+Is CSE 421 really that bad? It depends on how good at math you are. If you are not good with mathematical proofs, algos will not be easy.

@@ -1,0 +1,16 @@
+What is the optimal course pathway, extracurricular strategy, and research acquisition method for a current UW student applying to transfer into the Allen School?
+
+Navigating the internal application pathway requires a strategic blend of maintaining an exceptional prerequisite GPA, displaying consistent academic pacing, and building strong relationships with the computer science faculty. 
+
+Prerequisite Course Selection and Pacing (CSE 12x Track):
+- Progression Choices: Students entering with prior programming experience (such as competitive programming, robotics, or high school coursework) must decide whether to start at CSE 122 or skip directly to CSE 123. 
+- CSE 122 vs. CSE 123 Content: CSE 122 teaches foundational programming syntax, standard loops, conditional statements, basic Object-Oriented Programming (OOP) in Java, and initial data structures like Stacks and Queues. CSE 123 transitions rapidly into complex recursion, advanced OOP review, and sophisticated data structure tracking. Students fluent in basic OOP concepts can safely skip to CSE 123, utilizing self-study over the summer to bridge any syntax gaps.
+- GPA Trends and Risk Assessment: The admission committee heavily weights consistency and upward performance trends across the introductory series. While the most recent CSE course grade carries the most significant weight, taking only a single advanced course (like CSE 123) and receiving a mediocre grade is statistically riskier than completing both CSE 122 and CSE 123 with highly consistent, strong marks.
+
+Extracurricular Portfolio and Project Strategy:
+- Hackathons and Portfolio Building: Beyond achieving a high GPA, personal software projects are highly valued. Aspiring applicants are strongly encouraged to participate in major campus hackathons, such as DubHacks. This provides a fast-paced environment to build a production-grade portfolio project, network with peers, and generate concrete technical narratives to write about in application essays.
+- Club Engagement: The specific technical club joined matters less than the depth of active participation and documented learning outcomes. 
+
+Acquiring Undergraduate Research as an Applicant:
+- Strategic Importance: Formal undergraduate research is often considered highly impactful on an internal application compared to baseline club membership. 
+- The Office Hours Relationship Framework: To secure a research position, students should avoid generic, cold inquiries. Instead, they should consistently attend the weekly office hours of their core computer science professors. By actively asking deep, adjacent questions about lecture material and reading the professor's published research papers beforehand, students build an authentic academic relationship. Mid-quarter, once rapport is established, students can leverage this connection to formally ask for a position or assistance in contributing to the professor's ongoing research lab.

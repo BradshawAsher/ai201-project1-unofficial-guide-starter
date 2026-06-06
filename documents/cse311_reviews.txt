@@ -1,0 +1,7 @@
+What is CSE 311 like? I heard it's not really centered around coding, but more on the math side. If you took it, what was your experience like? Would an iPad suffice for note-taking? Or should I bring a laptop too?
+
+Lots of extremely nitpicky proofs. If you're a math major you will be thrown off at how ridiculously explicit you need to make the proofs. Not a single step can be implied, even if it's obvious. Also the TAs often make mistakes in grading if you give them a correct but unusual solution. On the other hand it's a pretty fun class because you learn about the foundations of math and CS (logic).
+
+311 doesn't involve coding. It mainly focuses on logic (and/or, induction, etc.) I think you would do better with an iPad if you're writing notes, since there can be a lot of information and special symbols that a laptop can get in the way of.
+
+A lot of people in the CS major really like to rag on 311, but I think it gets a bad reputation. The material is pretty foundational and useful but they’re overly harsh on grading. Generally all the homework problems follow a template that is similar to problems discussed in class slides, so if you follow that format, you should be fine. The class will suggest learning LaTeX to write your homework assignments, and I think that is a pretty good idea.
