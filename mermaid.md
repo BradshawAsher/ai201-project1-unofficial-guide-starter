@@ -4,7 +4,7 @@ graph TD
         A[Raw .txt Files in docs/] -->|Python File I/O| B[Document Parser Script]
     end
     
-    subgraph Chunking & Vectorization
+    subgraph "Chunking & Vectorization"
         B -->|Fixed Character Splitting: 500 / Overlap: 100| C[Text Chunks]
         C -->|all-MiniLM-L6-v2 Model| D[Dense Vector Embeddings]
         D -->|Write Vector + Metadata| E[(Local ChromaDB Vector Store)]
@@ -19,9 +19,10 @@ graph TD
     subgraph Text Generation
         H -->|Inject Chunks as System Context| I[System Prompt Assembly Template]
         F --> I
-        I -->|Structured Context Payload| J[Local Gemini API Inference Engine]
-        J -->|Grounded Student Guide Answer| K[Terminal Interface / User UI]
+        I -->|Structured Context Payload| J["Groq API Inference (llama-3.3-70b-versatile)"]
+        J -->|Grounded Student Guide Answer| K[Gradio Web UI]
     end
 
     style E fill:#f9f,stroke:#333,stroke-width:2px
     style J fill:#bbf,stroke:#333,stroke-width:2px
+```

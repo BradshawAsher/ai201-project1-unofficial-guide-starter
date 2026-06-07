@@ -145,7 +145,7 @@ See in mermaid.md
 
 **Milestone 3 — Ingestion and chunking:**
 
-AI Tool: Claude 3.5 Sonnet
+AI Tool: Claude Opus 4.8 (primary), with Gemini 3.5 Flash for quick cross-checks
 
 Inputs: The ## Documents data schema and the ## Chunking Strategy rules from this planning.md file.
 
@@ -154,7 +154,7 @@ Expected Production Output: A complete, production-ready Python script named ing
 Verification Plan: Run the script locally via terminal and assert that the output print array matches our files. We will explicitly print out chunks[0] and chunks[1] of docs/cse311_reviews.txt to verify by hand that the text overlaps precisely by 100 characters.
 
 **Milestone 4 — Embedding and retrieval:**
-AI Tool: GitHub Copilot / Claude 3.5 Sonnet
+AI Tool: Claude Opus 4.8 (primary), with Gemini 3.5 Flash for quick cross-checks
 
 Inputs: The ## Retrieval Approach spec, the ChromaDB integration guide from our project requirements, and the working chunk arrays from ingest.py.
 
@@ -163,10 +163,10 @@ Expected Production Output: Updates to our architecture script to instantiate a 
 Verification Plan: Issue a terminal search query: "Kevin Lin flipped classroom". Assert that the terminal prints 3 database chunks originating exclusively from docs/prof_kevin_lin_style.txt.
 
 **Milestone 5 — Generation and interface:**
-AI Tool: Claude 3.5 Sonnet
+AI Tool: Claude Opus 4.8 (primary), with Gemini 3.5 Flash for quick cross-checks
 
-Inputs: The entire completed planning.md structure, the active database retrieval hooks from Milestone 4, and the Gemini API initialization code snippets.
+Inputs: The entire completed planning.md structure, the active database retrieval hooks from Milestone 4, and the Groq API initialization code snippets (`from groq import Groq`, reading `GROQ_API_KEY` from `.env`).
 
-Expected Production Output: A main application execution file (app.py) that handles incoming user string prompts, executes the data retrieval hook, injects the text chunks into a well-structured system context template, and interfaces with the Gemini API to stream a grounded response. It will contain a safety guardrail instructing the LLM to output a clean out-of-scope rejection if retrieved text scores fall below similarity thresholds.
+Expected Production Output: A main application execution file (app.py) that handles incoming user string prompts, executes the data retrieval hook, injects the top-k text chunks into a well-structured system context template, and interfaces with the Groq API (`llama-3.3-70b-versatile`) to return a grounded response. The system prompt will hard-enforce grounding — instructing the model to answer using only the retrieved context and to reply "I don't have enough information on that." when the context is insufficient — and source filenames will be appended programmatically to the response rather than left to the model. The app will be served through a Gradio web UI (`gradio>=6.9.0`) exposing a question textbox, an answer field, and a "Retrieved from" sources field.
 
-Verification Plan: Manually run all 5 hardcoded questions from our ## Evaluation Plan through our terminal program. We will meticulously compare the model's generated text against our expected "ground truth" criteria to confirm absolute technical accuracy.
+Verification Plan: Launch the Gradio app with `python app.py` and open http://localhost:7860. Manually run all 5 questions from our ## Evaluation Plan through the web UI, plus one off-topic question our documents don't cover (which should trigger the "not enough information" decline). For each grounded answer we will confirm the cited source filename(s) match the document the answer was actually drawn from, and compare the generated text against our expected "ground truth" criteria.
